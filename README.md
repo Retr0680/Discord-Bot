@@ -8,7 +8,7 @@
 <img align="center" src=".img/main.png" width="900">
 </p>
 
-[**Latest Version**](htpps://github.com/Retr0680/Discord-Bot/)
+[**Latest Version**](https://github.com/Retr0680/Discord-Bot/)
 
 ## Installation ⚙️
 

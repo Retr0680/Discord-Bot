@@ -1,8 +1,8 @@
 ### Discord Bot
 
-[![version-1](https://img.shields.io/badge/Version-2-green)](https://github.com/Retr0680/Discord-Bot)
-[![MIT](https://img.shields.io/badge/MIT)](https://img.shields.io/badge/license-MIT-blue)
-[![Python3](https://img.shields.io/badge/Python3-red)](https://img.shields.io/badge/Python3-red)
+[![version-1](https://img.shields.io/badge/Version-2-green)](https://github.com/Retr0680/Discord-Bot/)
+[![MIT](https://img.shields.io/badge/license-MIT-blue)](https://img.shields.io/badge/license-MIT-blue)
+[![Python3](https://img.shields.io/badge/language-Python3-red)](https://img.shields.io/badge/language-Python3-red)
 
 <p align="center">
 <img align="center" src=".img/main" width="900">

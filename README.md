@@ -1,4 +1,4 @@
-# Discord Bot
+### Discord Bot
 
 [![version-1](https://img.shields.io/badge/Version-2-green)](https://github.com/Retr0680/Discord-Bot)
 [![MIT](https://img.shields.io/badge/MIT)](https://img.shields.io/badge/license-MIT-blue)

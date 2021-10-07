@@ -27,8 +27,8 @@
 
 4. Run the main.py script
 
-    *`main.py`
-    *`python3 main.py`
+    * `main.py`
+    * `python3 main.py`
 
 ## Updating ⬇️
 

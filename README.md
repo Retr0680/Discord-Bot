@@ -34,6 +34,10 @@
 <img align="center" src=".img/main.png" width="900">
 </p>
 
+## 💨 Run the projects
+
+[![Remix on Glitch](https://cdn.glitch.com/2703baf2-b643-4da7-ab91-7ee2a2d00b5b%2Fremix-button.svg)](https://glitch.com/edit/#!/import/github/Retr0680/Discord-Bot)
+
 ## Updating ⬇️
 
 To update Discord-Bot with the stable release just pull the latest commit using Git.

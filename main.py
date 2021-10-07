@@ -147,5 +147,5 @@ async def help(ctx, member):
     await member.send(f'{member.mention},Write whatever you want to say for help')
 
 keep_alive()
-Token = your bot token
-client.run('Token')
+#Token = your bot token
+client.run('ODg1OTM5MDE2OTEzMDIzMDY2.YTuVAQ.v7nMgkomVzr-LIXAiEE59J930sA')

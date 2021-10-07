@@ -6,7 +6,6 @@
 
 """"This file is for if you want to run your bot in the internet make it's site and all"""
 
-# Libraries
 from flask import Flask
 from threading import Thread
 
@@ -16,14 +15,14 @@ print("   / /_/ / _ \/ __/ ___/ / / / ")
 print("  / _, _/  __/ /_/ /  / /_/ /  ")
 print(" /_/ |_|\___/\__/_/   \____/   ")
 
-app = FLask('')
+app = Flask('')
 
 @app.route('/')
 def home():
-    return "Bot is online!"
+    return "Bot is Online!"
 
 def run():
-    app.run(host='0.0.0.0', port=8080)
+  app.run(host='0.0.0.0',port=8080)
 
 def keep_alive():
     t = Thread(target=run)

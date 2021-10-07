@@ -5,7 +5,7 @@
 [![Python3](https://img.shields.io/badge/language-Python3-red)](https://img.shields.io/badge/language-Python3-red)
 
 <p align="center">
-<img align="center" src=".img/main.png" width="900">
+<img align="center" src=".img/bot.png" width="900">
 </p>
 
 [**Latest Version**](https://github.com/Retr0680/Discord-Bot/)
@@ -29,6 +29,10 @@
 
     * `main.py`
     * `python3 main.py`
+
+<p align="center">
+<img align="center" src=".img/main.png" width="900">
+</p>
 
 ## Updating ⬇️
 
